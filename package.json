@@ -18,10 +18,13 @@
   },
   "author": "",
   "license": "MIT",
+  "dependencies": {
+    "ember-browserify": "ef4/ember-browserify#d725f9dbe71d8360d1d2067ba0851e270ddf7ff4"
+  },
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
     "ember-ajax": "0.6.2",
-    "ember-cli": "1.13.8",
+    "ember-cli": "ember-cli/ember-cli#ae5e726",
     "ember-cli-app-version": "^1.0.0",
     "ember-cli-babel": "^5.1.3",
     "ember-cli-content-security-policy": "0.4.0",
